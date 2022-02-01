@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kiosk.Device.IT.NV", "Kiosk.Device.IT.NV\Kiosk.Device.IT.NV.csproj", "{8D566CC6-1BFE-4A45-B50D-34D56435ACE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiosk.Device.IT.NV.ConsoleTest", "Kiosk.Device.IT.NV.ConsoleTest\Kiosk.Device.IT.NV.ConsoleTest.csproj", "{A68D1E7F-35B3-4877-8052-9364EB3F218A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D566CC6-1BFE-4A45-B50D-34D56435ACE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D566CC6-1BFE-4A45-B50D-34D56435ACE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D566CC6-1BFE-4A45-B50D-34D56435ACE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D566CC6-1BFE-4A45-B50D-34D56435ACE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A68D1E7F-35B3-4877-8052-9364EB3F218A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68D1E7F-35B3-4877-8052-9364EB3F218A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68D1E7F-35B3-4877-8052-9364EB3F218A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68D1E7F-35B3-4877-8052-9364EB3F218A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {358DEBCF-E87E-46FE-827F-DED0951F9A61}
+	EndGlobalSection
+EndGlobal
